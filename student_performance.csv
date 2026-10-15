@@ -1,0 +1,1001 @@
+StudentID,Age,Mark,GradeName,Department
+1,19,36.6,F,Business Administration
+2,21,49.5,F,Electrical Engineering
+3,19,73.4,B,Computer Science
+4,18,41.1,F,Civil Engineering
+5,18,71.5,B,Biology
+6,24,49.3,F,English Literature
+7,22,87.6,A,Computer Science
+8,20,80.4,A,Mathematics
+9,22,45.1,F,Mathematics
+10,19,41.0,F,Electrical Engineering
+11,23,90.1,A+,English Literature
+12,22,87.5,A,Chemistry
+13,19,98.3,A+,Physics
+14,19,70.9,B,English Literature
+15,23,72.5,B,Electrical Engineering
+16,18,78.0,B,Business Administration
+17,19,90.6,A+,Electrical Engineering
+18,24,53.1,D,Mathematics
+19,20,59.1,D,Civil Engineering
+20,22,80.6,A,Electrical Engineering
+21,20,69.7,C,Civil Engineering
+22,20,65.0,C,Business Administration
+23,21,79.5,B,Computer Science
+24,21,88.4,A,Mathematics
+25,24,52.4,D,Civil Engineering
+26,23,48.8,F,Chemistry
+27,24,92.5,A+,Chemistry
+28,20,52.2,D,Civil Engineering
+29,22,83.6,A,Physics
+30,24,58.5,D,Mechanical Engineering
+31,25,40.9,F,Computer Science
+32,19,44.9,F,Mechanical Engineering
+33,24,73.8,B,Physics
+34,24,73.7,B,Chemistry
+35,22,98.1,A+,Computer Science
+36,19,79.3,B,Biology
+37,22,85.0,A,Mathematics
+38,19,54.1,D,Mechanical Engineering
+39,25,35.2,F,Business Administration
+40,20,68.0,C,Electrical Engineering
+41,22,89.7,A,Biology
+42,21,44.9,F,Mechanical Engineering
+43,18,73.9,B,Chemistry
+44,18,42.3,F,Mathematics
+45,22,50.6,D,Civil Engineering
+46,19,40.6,F,Chemistry
+47,19,98.6,A+,Biology
+48,20,43.3,F,Chemistry
+49,20,52.2,D,English Literature
+50,24,97.7,A+,Biology
+51,21,81.3,A,Physics
+52,23,63.5,C,Biology
+53,25,42.9,F,Civil Engineering
+54,19,57.0,D,English Literature
+55,21,73.2,B,Computer Science
+56,19,81.0,A,Computer Science
+57,21,39.4,F,Computer Science
+58,23,39.6,F,Civil Engineering
+59,22,78.5,B,Civil Engineering
+60,20,82.0,A,English Literature
+61,25,50.8,D,Chemistry
+62,24,47.4,F,Electrical Engineering
+63,24,58.0,D,Physics
+64,25,91.1,A+,Computer Science
+65,19,38.9,F,Mathematics
+66,19,51.2,D,Civil Engineering
+67,25,44.1,F,Mechanical Engineering
+68,22,65.1,C,Electrical Engineering
+69,25,87.5,A,Biology
+70,19,38.3,F,Biology
+71,18,98.0,A+,Civil Engineering
+72,20,61.4,C,Chemistry
+73,21,91.2,A+,Computer Science
+74,20,59.6,D,Physics
+75,22,95.2,A+,Chemistry
+76,22,62.5,C,Biology
+77,25,45.1,F,Business Administration
+78,21,98.0,A+,English Literature
+79,18,83.6,A,Computer Science
+80,18,73.0,B,Biology
+81,20,38.7,F,Biology
+82,19,90.3,A+,Electrical Engineering
+83,19,78.9,B,Civil Engineering
+84,24,42.8,F,English Literature
+85,21,72.6,B,Computer Science
+86,19,62.2,C,English Literature
+87,23,95.8,A+,Civil Engineering
+88,23,50.5,D,Physics
+89,20,78.7,B,Business Administration
+90,25,55.6,D,Electrical Engineering
+91,18,64.8,C,English Literature
+92,19,39.8,F,Civil Engineering
+93,22,43.6,F,Mathematics
+94,19,92.2,A+,Mathematics
+95,22,45.3,F,Biology
+96,22,74.8,B,Biology
+97,18,78.4,B,Biology
+98,22,95.6,A+,Electrical Engineering
+99,20,52.2,D,Electrical Engineering
+100,20,52.7,D,English Literature
+101,21,81.6,A,Civil Engineering
+102,22,67.9,C,Business Administration
+103,18,41.0,F,Physics
+104,22,37.9,F,Mathematics
+105,20,76.4,B,Business Administration
+106,20,83.2,A,Biology
+107,24,71.5,B,Electrical Engineering
+108,19,96.4,A+,Mechanical Engineering
+109,18,89.2,A,English Literature
+110,20,62.9,C,Computer Science
+111,22,58.7,D,Computer Science
+112,23,48.7,F,Civil Engineering
+113,19,58.0,D,Biology
+114,24,98.3,A+,Mechanical Engineering
+115,21,91.2,A+,Mechanical Engineering
+116,24,36.6,F,Mathematics
+117,24,87.1,A,Civil Engineering
+118,22,45.3,F,Electrical Engineering
+119,24,91.7,A+,Chemistry
+120,21,48.0,F,Chemistry
+121,23,54.8,D,Civil Engineering
+122,21,36.5,F,Civil Engineering
+123,24,56.3,D,Electrical Engineering
+124,22,57.8,D,Biology
+125,24,79.2,B,Biology
+126,23,96.1,A+,Electrical Engineering
+127,22,46.6,F,Business Administration
+128,18,42.0,F,Physics
+129,23,82.4,A,Mathematics
+130,24,74.4,B,Biology
+131,19,60.0,C,English Literature
+132,21,51.6,D,Physics
+133,18,68.8,C,Biology
+134,21,58.7,D,Electrical Engineering
+135,23,75.5,B,Electrical Engineering
+136,22,68.0,C,Physics
+137,23,61.2,C,Business Administration
+138,20,47.5,F,Physics
+139,20,75.0,B,Business Administration
+140,24,70.6,B,Computer Science
+141,22,53.6,D,Physics
+142,23,65.2,C,Chemistry
+143,21,68.2,C,Mechanical Engineering
+144,19,53.4,D,English Literature
+145,23,41.1,F,Civil Engineering
+146,22,49.6,F,Civil Engineering
+147,20,36.6,F,Civil Engineering
+148,25,74.7,B,Electrical Engineering
+149,25,61.9,C,English Literature
+150,21,81.7,A,Physics
+151,25,61.0,C,Mechanical Engineering
+152,18,93.0,A+,Electrical Engineering
+153,24,49.2,F,Biology
+154,25,38.3,F,Civil Engineering
+155,19,64.7,C,Chemistry
+156,23,96.8,A+,Chemistry
+157,24,89.0,A,Biology
+158,25,93.3,A+,Chemistry
+159,25,51.8,D,Civil Engineering
+160,22,84.8,A,Biology
+161,25,75.7,B,Business Administration
+162,25,40.0,F,Business Administration
+163,21,52.7,D,Mathematics
+164,19,44.0,F,Civil Engineering
+165,24,80.1,A,Civil Engineering
+166,19,62.0,C,Mathematics
+167,25,62.0,C,Civil Engineering
+168,24,60.3,C,English Literature
+169,18,90.7,A+,English Literature
+170,24,66.0,C,Mathematics
+171,22,84.0,A,Physics
+172,21,66.7,C,Business Administration
+173,24,66.6,C,Physics
+174,23,78.5,B,Physics
+175,20,89.6,A,Mechanical Engineering
+176,18,94.0,A+,English Literature
+177,18,40.5,F,Physics
+178,20,91.3,A+,Mechanical Engineering
+179,18,51.9,D,Mathematics
+180,21,64.6,C,Mathematics
+181,24,53.1,D,Physics
+182,22,89.3,A,Chemistry
+183,18,83.7,A,Computer Science
+184,23,49.6,F,Electrical Engineering
+185,18,84.0,A,Civil Engineering
+186,21,89.5,A,English Literature
+187,20,50.5,D,Chemistry
+188,19,71.7,B,Civil Engineering
+189,25,80.5,A,Mathematics
+190,20,74.4,B,Electrical Engineering
+191,20,97.7,A+,Electrical Engineering
+192,18,95.4,A+,English Literature
+193,24,60.8,C,Civil Engineering
+194,19,73.5,B,Civil Engineering
+195,19,80.3,A,Business Administration
+196,19,86.8,A,English Literature
+197,18,57.6,D,Physics
+198,23,39.5,F,Mathematics
+199,18,90.2,A+,Chemistry
+200,19,63.2,C,Mathematics
+201,25,81.0,A,Physics
+202,20,82.7,A,Business Administration
+203,25,65.2,C,English Literature
+204,22,55.9,D,Civil Engineering
+205,19,53.1,D,Chemistry
+206,21,83.8,A,English Literature
+207,24,56.9,D,Chemistry
+208,23,46.8,F,Civil Engineering
+209,23,86.9,A,Mathematics
+210,22,92.2,A+,Business Administration
+211,18,68.6,C,Civil Engineering
+212,19,50.7,D,Physics
+213,25,71.1,B,Civil Engineering
+214,25,77.0,B,Chemistry
+215,25,86.5,A,Electrical Engineering
+216,22,49.4,F,Civil Engineering
+217,22,78.2,B,Mathematics
+218,25,71.0,B,Mathematics
+219,24,99.8,A+,Biology
+220,23,57.9,D,Chemistry
+221,22,54.9,D,Civil Engineering
+222,19,81.9,A,Mathematics
+223,19,83.3,A,Mechanical Engineering
+224,21,49.1,F,Chemistry
+225,22,82.1,A,Biology
+226,22,98.7,A+,Civil Engineering
+227,22,49.8,F,Mechanical Engineering
+228,22,35.9,F,Biology
+229,20,52.8,D,Computer Science
+230,22,80.3,A,Mechanical Engineering
+231,25,41.7,F,Computer Science
+232,22,65.5,C,Chemistry
+233,23,47.0,F,Computer Science
+234,22,96.2,A+,Chemistry
+235,19,88.4,A,Physics
+236,25,39.8,F,Computer Science
+237,20,44.7,F,English Literature
+238,22,40.5,F,Civil Engineering
+239,19,71.3,B,Physics
+240,21,85.4,A,Physics
+241,25,94.1,A+,Business Administration
+242,24,54.8,D,English Literature
+243,18,74.6,B,Electrical Engineering
+244,21,75.7,B,Business Administration
+245,19,45.2,F,Mechanical Engineering
+246,19,45.2,F,Physics
+247,25,79.8,B,Chemistry
+248,22,37.1,F,Business Administration
+249,22,80.7,A,Chemistry
+250,19,79.7,B,Business Administration
+251,21,62.6,C,Biology
+252,21,77.1,B,Business Administration
+253,20,39.6,F,Mechanical Engineering
+254,22,73.7,B,English Literature
+255,22,63.5,C,Chemistry
+256,22,80.5,A,Business Administration
+257,25,63.5,C,English Literature
+258,18,92.8,A+,Mathematics
+259,22,36.7,F,Civil Engineering
+260,18,100.0,A+,Business Administration
+261,18,84.6,A,Mechanical Engineering
+262,25,68.7,C,Chemistry
+263,22,46.8,F,English Literature
+264,24,76.3,B,Chemistry
+265,19,65.6,C,Physics
+266,23,55.9,D,Electrical Engineering
+267,20,56.4,D,Chemistry
+268,22,78.1,B,Physics
+269,18,64.6,C,Mathematics
+270,22,56.0,D,Physics
+271,18,77.7,B,Biology
+272,25,61.9,C,Civil Engineering
+273,23,75.5,B,Chemistry
+274,25,84.4,A,Civil Engineering
+275,22,70.7,B,Business Administration
+276,25,92.3,A+,Chemistry
+277,19,36.9,F,English Literature
+278,21,81.1,A,Business Administration
+279,18,70.9,B,Electrical Engineering
+280,21,99.5,A+,Electrical Engineering
+281,25,96.6,A+,Mechanical Engineering
+282,25,95.6,A+,Business Administration
+283,22,62.0,C,Chemistry
+284,25,50.8,D,Biology
+285,20,59.9,D,English Literature
+286,20,91.2,A+,Business Administration
+287,24,57.1,D,Biology
+288,22,88.3,A,Business Administration
+289,22,89.4,A,English Literature
+290,25,91.2,A+,Chemistry
+291,25,57.4,D,Biology
+292,24,64.6,C,Mathematics
+293,21,98.8,A+,Civil Engineering
+294,24,50.2,D,Physics
+295,18,55.7,D,Chemistry
+296,24,60.1,C,Mechanical Engineering
+297,25,97.7,A+,Mechanical Engineering
+298,23,91.5,A+,Chemistry
+299,19,69.2,C,Chemistry
+300,18,82.0,A,Physics
+301,20,39.9,F,Business Administration
+302,23,75.5,B,Physics
+303,19,90.4,A+,Biology
+304,24,97.0,A+,Chemistry
+305,18,75.1,B,Civil Engineering
+306,22,99.8,A+,Electrical Engineering
+307,24,98.6,A+,Electrical Engineering
+308,25,45.8,F,Business Administration
+309,18,38.0,F,Computer Science
+310,22,58.3,D,Physics
+311,20,50.9,D,Physics
+312,20,46.0,F,Electrical Engineering
+313,24,75.3,B,Civil Engineering
+314,25,94.3,A+,Mechanical Engineering
+315,21,65.0,C,Business Administration
+316,25,51.6,D,Computer Science
+317,25,93.6,A+,Biology
+318,20,39.8,F,Mathematics
+319,22,76.5,B,Physics
+320,22,64.7,C,Business Administration
+321,21,100.0,A+,Chemistry
+322,19,50.4,D,English Literature
+323,23,72.4,B,Business Administration
+324,18,98.6,A+,Physics
+325,22,35.5,F,Computer Science
+326,25,89.1,A,Business Administration
+327,21,74.5,B,Mathematics
+328,21,76.4,B,English Literature
+329,22,79.1,B,Mechanical Engineering
+330,19,93.7,A+,Computer Science
+331,22,86.3,A,Computer Science
+332,23,82.6,A,Electrical Engineering
+333,22,56.2,D,Physics
+334,20,48.1,F,Biology
+335,23,69.5,C,Business Administration
+336,20,51.7,D,Chemistry
+337,22,83.5,A,Mathematics
+338,19,65.4,C,Electrical Engineering
+339,20,84.0,A,Civil Engineering
+340,24,97.9,A+,Biology
+341,23,40.9,F,Physics
+342,18,52.2,D,Electrical Engineering
+343,25,59.0,D,Business Administration
+344,24,88.5,A,Mathematics
+345,19,78.9,B,Chemistry
+346,18,75.3,B,Biology
+347,23,94.5,A+,Civil Engineering
+348,19,76.3,B,Chemistry
+349,22,77.2,B,Electrical Engineering
+350,20,37.9,F,Computer Science
+351,22,99.7,A+,Electrical Engineering
+352,19,50.3,D,Biology
+353,20,60.3,C,Mathematics
+354,24,73.2,B,Mechanical Engineering
+355,24,77.6,B,Chemistry
+356,24,96.0,A+,Business Administration
+357,18,79.9,B,Civil Engineering
+358,25,63.9,C,Civil Engineering
+359,23,41.5,F,Mathematics
+360,23,38.9,F,Business Administration
+361,21,97.9,A+,Chemistry
+362,19,78.1,B,English Literature
+363,18,38.3,F,Mathematics
+364,21,99.3,A+,English Literature
+365,21,39.5,F,Biology
+366,21,73.1,B,Civil Engineering
+367,23,85.3,A,English Literature
+368,18,53.0,D,Mechanical Engineering
+369,20,70.1,B,Mechanical Engineering
+370,19,78.0,B,Computer Science
+371,20,36.0,F,Civil Engineering
+372,23,36.0,F,Business Administration
+373,18,43.2,F,Physics
+374,19,83.5,A,Chemistry
+375,25,85.6,A,Biology
+376,19,64.4,C,Civil Engineering
+377,18,82.3,A,Biology
+378,22,64.8,C,Computer Science
+379,18,99.9,A+,Physics
+380,24,79.6,B,Chemistry
+381,25,39.8,F,Electrical Engineering
+382,23,74.5,B,Electrical Engineering
+383,20,52.9,D,English Literature
+384,23,59.8,D,English Literature
+385,22,64.5,C,English Literature
+386,24,41.4,F,Electrical Engineering
+387,21,63.0,C,Civil Engineering
+388,24,57.0,D,Chemistry
+389,24,62.0,C,Electrical Engineering
+390,23,62.7,C,Business Administration
+391,23,97.0,A+,Chemistry
+392,19,40.9,F,Electrical Engineering
+393,19,63.1,C,Mathematics
+394,20,71.2,B,English Literature
+395,23,78.6,B,Physics
+396,23,91.8,A+,Physics
+397,18,97.9,A+,English Literature
+398,22,57.9,D,English Literature
+399,21,45.1,F,Chemistry
+400,21,90.1,A+,Mathematics
+401,23,42.5,F,Business Administration
+402,21,87.5,A,Biology
+403,18,74.6,B,Business Administration
+404,18,46.7,F,Business Administration
+405,23,57.8,D,Mechanical Engineering
+406,20,71.8,B,Physics
+407,19,44.2,F,Computer Science
+408,19,83.5,A,Civil Engineering
+409,24,62.3,C,Mathematics
+410,20,59.1,D,Mathematics
+411,19,92.4,A+,Mechanical Engineering
+412,20,84.0,A,Computer Science
+413,19,52.7,D,Physics
+414,25,74.5,B,Physics
+415,22,49.0,F,Biology
+416,19,57.4,D,Electrical Engineering
+417,22,79.1,B,English Literature
+418,25,69.3,C,Business Administration
+419,18,49.3,F,English Literature
+420,18,35.5,F,Business Administration
+421,21,84.9,A,Business Administration
+422,22,56.3,D,Computer Science
+423,25,83.6,A,Mechanical Engineering
+424,20,59.7,D,Civil Engineering
+425,23,39.7,F,Computer Science
+426,24,36.2,F,Electrical Engineering
+427,23,72.4,B,English Literature
+428,24,81.1,A,Physics
+429,22,42.5,F,Computer Science
+430,23,46.2,F,English Literature
+431,25,89.1,A,Mathematics
+432,19,63.4,C,Electrical Engineering
+433,21,63.3,C,Physics
+434,19,60.7,C,Business Administration
+435,23,49.4,F,Mechanical Engineering
+436,19,68.2,C,Electrical Engineering
+437,21,93.9,A+,Mathematics
+438,23,82.3,A,Mechanical Engineering
+439,21,41.7,F,Business Administration
+440,21,46.3,F,Mechanical Engineering
+441,19,46.5,F,Chemistry
+442,25,84.0,A,English Literature
+443,25,79.3,B,English Literature
+444,23,91.2,A+,Mathematics
+445,20,63.6,C,Chemistry
+446,25,76.0,B,Business Administration
+447,18,57.9,D,Electrical Engineering
+448,22,65.0,C,Computer Science
+449,18,59.0,D,Business Administration
+450,19,76.9,B,Electrical Engineering
+451,24,65.1,C,Biology
+452,18,64.2,C,English Literature
+453,21,55.9,D,Chemistry
+454,20,97.3,A+,Chemistry
+455,19,87.7,A,Mathematics
+456,19,67.8,C,Mechanical Engineering
+457,18,51.1,D,Chemistry
+458,25,69.1,C,English Literature
+459,20,58.7,D,Business Administration
+460,24,61.6,C,Mathematics
+461,18,86.3,A,Mathematics
+462,19,56.4,D,Biology
+463,24,53.5,D,English Literature
+464,20,56.7,D,English Literature
+465,20,94.6,A+,Business Administration
+466,24,43.4,F,Electrical Engineering
+467,22,71.3,B,Mathematics
+468,20,78.6,B,Biology
+469,19,77.0,B,Physics
+470,23,36.2,F,Business Administration
+471,20,96.8,A+,Mathematics
+472,25,47.5,F,Mechanical Engineering
+473,20,40.0,F,Electrical Engineering
+474,18,78.0,B,English Literature
+475,20,73.8,B,Mechanical Engineering
+476,20,46.8,F,English Literature
+477,20,81.9,A,Computer Science
+478,24,58.7,D,Civil Engineering
+479,25,74.7,B,Chemistry
+480,21,69.7,C,Business Administration
+481,25,93.8,A+,Civil Engineering
+482,23,79.1,B,English Literature
+483,25,65.0,C,Business Administration
+484,24,67.7,C,Physics
+485,20,88.1,A,English Literature
+486,20,91.7,A+,Computer Science
+487,25,91.8,A+,Biology
+488,19,81.2,A,Biology
+489,19,53.5,D,Mechanical Engineering
+490,22,64.2,C,Biology
+491,20,89.0,A,Electrical Engineering
+492,21,88.1,A,Mathematics
+493,18,62.0,C,Physics
+494,23,50.3,D,Electrical Engineering
+495,23,49.6,F,Mathematics
+496,19,89.5,A,Mathematics
+497,20,43.9,F,Business Administration
+498,25,80.2,A,Mechanical Engineering
+499,25,64.2,C,Computer Science
+500,19,36.2,F,Civil Engineering
+501,20,70.7,B,English Literature
+502,24,42.2,F,Business Administration
+503,21,54.6,D,Computer Science
+504,21,62.3,C,English Literature
+505,25,39.1,F,Chemistry
+506,18,76.1,B,English Literature
+507,21,81.7,A,Business Administration
+508,24,35.1,F,Mathematics
+509,21,72.1,B,Mechanical Engineering
+510,19,69.0,C,Mathematics
+511,19,97.0,A+,Biology
+512,18,60.4,C,Chemistry
+513,18,76.3,B,Mathematics
+514,22,83.6,A,Mathematics
+515,19,57.4,D,Electrical Engineering
+516,23,43.7,F,Mathematics
+517,23,87.9,A,Mechanical Engineering
+518,25,98.8,A+,Chemistry
+519,20,87.7,A,Electrical Engineering
+520,25,37.4,F,Civil Engineering
+521,18,86.4,A,Computer Science
+522,23,95.7,A+,Biology
+523,24,99.3,A+,Biology
+524,25,51.5,D,Civil Engineering
+525,22,58.2,D,Computer Science
+526,23,52.8,D,Mathematics
+527,24,92.8,A+,Chemistry
+528,24,57.0,D,Mechanical Engineering
+529,25,80.0,A,Mathematics
+530,22,87.1,A,Physics
+531,19,63.0,C,Mechanical Engineering
+532,22,55.9,D,Electrical Engineering
+533,23,78.0,B,Business Administration
+534,25,74.2,B,Physics
+535,20,79.8,B,Mathematics
+536,25,37.8,F,Mathematics
+537,24,52.8,D,Computer Science
+538,19,78.6,B,Physics
+539,23,68.4,C,Mechanical Engineering
+540,18,44.3,F,English Literature
+541,25,37.3,F,Electrical Engineering
+542,21,85.6,A,Mathematics
+543,23,59.9,D,English Literature
+544,18,74.3,B,Chemistry
+545,23,59.2,D,Electrical Engineering
+546,20,69.4,C,Physics
+547,23,77.2,B,Civil Engineering
+548,19,36.7,F,Mechanical Engineering
+549,25,68.7,C,Biology
+550,19,52.0,D,Business Administration
+551,25,48.9,F,English Literature
+552,22,80.1,A,Chemistry
+553,21,43.0,F,Electrical Engineering
+554,25,46.2,F,Chemistry
+555,19,87.7,A,Mathematics
+556,23,81.1,A,Biology
+557,22,92.9,A+,Mechanical Engineering
+558,20,86.6,A,Biology
+559,21,42.9,F,Civil Engineering
+560,20,50.4,D,Chemistry
+561,18,58.5,D,English Literature
+562,23,65.4,C,Biology
+563,20,74.8,B,Electrical Engineering
+564,19,55.1,D,Chemistry
+565,24,85.0,A,English Literature
+566,19,43.1,F,Mathematics
+567,19,64.2,C,Biology
+568,23,43.3,F,Biology
+569,20,84.9,A,Mechanical Engineering
+570,24,67.7,C,Computer Science
+571,19,68.7,C,Business Administration
+572,20,45.5,F,Civil Engineering
+573,23,96.6,A+,Biology
+574,22,90.0,A+,Business Administration
+575,21,76.3,B,Biology
+576,22,43.1,F,Business Administration
+577,19,67.7,C,Mechanical Engineering
+578,20,46.1,F,English Literature
+579,23,89.8,A,English Literature
+580,18,88.6,A,Computer Science
+581,19,38.0,F,English Literature
+582,22,77.3,B,English Literature
+583,24,75.2,B,Computer Science
+584,25,92.8,A+,Biology
+585,22,76.7,B,Business Administration
+586,25,50.9,D,Physics
+587,22,64.5,C,Computer Science
+588,20,63.6,C,Chemistry
+589,25,48.3,F,English Literature
+590,20,55.3,D,Mathematics
+591,23,98.4,A+,Mechanical Engineering
+592,23,68.5,C,Electrical Engineering
+593,23,50.7,D,Electrical Engineering
+594,22,64.2,C,Mechanical Engineering
+595,19,38.3,F,Physics
+596,24,51.1,D,Mechanical Engineering
+597,23,95.7,A+,Mathematics
+598,21,84.6,A,Chemistry
+599,25,67.4,C,Business Administration
+600,25,36.5,F,Physics
+601,25,97.8,A+,Civil Engineering
+602,23,38.2,F,Business Administration
+603,25,73.8,B,Chemistry
+604,22,69.9,C,Electrical Engineering
+605,24,43.7,F,Business Administration
+606,23,84.7,A,Mathematics
+607,18,61.0,C,English Literature
+608,21,58.6,D,Business Administration
+609,19,60.1,C,Chemistry
+610,22,88.6,A,English Literature
+611,19,43.4,F,Electrical Engineering
+612,24,59.3,D,Mathematics
+613,23,84.1,A,Civil Engineering
+614,24,67.5,C,Computer Science
+615,18,43.9,F,Mathematics
+616,25,68.8,C,Mechanical Engineering
+617,20,56.3,D,English Literature
+618,23,45.6,F,English Literature
+619,22,73.6,B,Biology
+620,25,81.1,A,Business Administration
+621,25,88.0,A,Mathematics
+622,23,78.8,B,Physics
+623,22,86.8,A,Computer Science
+624,25,52.3,D,English Literature
+625,21,81.9,A,English Literature
+626,25,46.1,F,English Literature
+627,24,44.6,F,Civil Engineering
+628,18,72.2,B,Electrical Engineering
+629,21,36.2,F,Mathematics
+630,24,44.8,F,Civil Engineering
+631,24,67.6,C,English Literature
+632,25,91.7,A+,Computer Science
+633,20,68.7,C,Biology
+634,23,99.9,A+,Chemistry
+635,24,55.4,D,Mechanical Engineering
+636,25,94.3,A+,Mathematics
+637,23,78.9,B,Business Administration
+638,25,47.5,F,Civil Engineering
+639,22,71.3,B,Civil Engineering
+640,22,85.1,A,Civil Engineering
+641,25,55.6,D,Mathematics
+642,22,53.7,D,English Literature
+643,24,93.2,A+,Physics
+644,23,97.0,A+,Mechanical Engineering
+645,22,37.7,F,Electrical Engineering
+646,23,95.1,A+,Business Administration
+647,25,48.9,F,Biology
+648,22,95.6,A+,Business Administration
+649,20,42.1,F,English Literature
+650,21,50.8,D,Biology
+651,21,76.5,B,Computer Science
+652,19,61.9,C,Chemistry
+653,19,79.3,B,Mechanical Engineering
+654,18,97.7,A+,Mechanical Engineering
+655,24,77.4,B,Chemistry
+656,25,77.3,B,Business Administration
+657,23,53.6,D,Computer Science
+658,19,77.4,B,Civil Engineering
+659,18,94.4,A+,Mechanical Engineering
+660,24,92.3,A+,Mechanical Engineering
+661,18,99.8,A+,Physics
+662,25,47.1,F,Business Administration
+663,18,35.6,F,English Literature
+664,19,95.3,A+,Mathematics
+665,22,64.5,C,Biology
+666,25,92.8,A+,Mechanical Engineering
+667,25,52.7,D,Electrical Engineering
+668,23,45.6,F,Chemistry
+669,22,81.7,A,Computer Science
+670,23,86.4,A,English Literature
+671,21,46.4,F,Physics
+672,24,68.5,C,Electrical Engineering
+673,24,78.5,B,Mechanical Engineering
+674,20,66.0,C,Civil Engineering
+675,18,52.0,D,Civil Engineering
+676,25,84.0,A,Mathematics
+677,22,72.9,B,English Literature
+678,18,52.0,D,Mathematics
+679,21,39.0,F,Electrical Engineering
+680,25,54.9,D,Physics
+681,22,79.9,B,Business Administration
+682,23,75.0,B,Civil Engineering
+683,20,66.1,C,Chemistry
+684,23,62.0,C,Biology
+685,25,84.2,A,Civil Engineering
+686,21,79.2,B,English Literature
+687,19,69.2,C,Biology
+688,23,40.1,F,English Literature
+689,19,39.0,F,Biology
+690,21,72.2,B,Mechanical Engineering
+691,20,56.3,D,Biology
+692,25,42.6,F,Civil Engineering
+693,25,40.9,F,Biology
+694,25,87.6,A,Chemistry
+695,20,68.4,C,Chemistry
+696,18,71.3,B,Business Administration
+697,18,60.7,C,Computer Science
+698,21,72.6,B,Computer Science
+699,24,57.4,D,Electrical Engineering
+700,18,95.7,A+,Electrical Engineering
+701,25,37.1,F,Physics
+702,20,85.0,A,Physics
+703,23,99.5,A+,Physics
+704,25,91.5,A+,Physics
+705,24,40.2,F,Biology
+706,20,77.5,B,Mathematics
+707,19,46.6,F,Biology
+708,24,69.4,C,Civil Engineering
+709,18,84.2,A,Business Administration
+710,25,78.8,B,Biology
+711,24,69.6,C,Civil Engineering
+712,21,64.9,C,Mechanical Engineering
+713,22,47.3,F,Electrical Engineering
+714,18,87.6,A,Physics
+715,18,50.6,D,Electrical Engineering
+716,19,73.6,B,Chemistry
+717,18,50.9,D,Computer Science
+718,24,63.5,C,Biology
+719,21,84.0,A,Computer Science
+720,20,67.8,C,Business Administration
+721,21,88.0,A,English Literature
+722,23,72.5,B,Mathematics
+723,21,54.6,D,Mechanical Engineering
+724,21,61.9,C,Business Administration
+725,18,71.2,B,English Literature
+726,20,75.7,B,Physics
+727,25,38.0,F,Mathematics
+728,24,86.1,A,Mathematics
+729,24,61.5,C,Business Administration
+730,24,47.0,F,Biology
+731,25,50.7,D,Civil Engineering
+732,22,90.7,A+,Mechanical Engineering
+733,25,94.5,A+,Biology
+734,24,97.9,A+,Biology
+735,20,60.2,C,Business Administration
+736,21,56.5,D,Electrical Engineering
+737,25,90.1,A+,Electrical Engineering
+738,21,38.3,F,Physics
+739,18,91.8,A+,Civil Engineering
+740,21,66.2,C,Mathematics
+741,22,97.2,A+,Computer Science
+742,21,95.9,A+,Electrical Engineering
+743,25,94.4,A+,English Literature
+744,21,60.8,C,Civil Engineering
+745,23,85.4,A,Physics
+746,25,69.7,C,Mathematics
+747,22,52.0,D,Biology
+748,25,65.3,C,Chemistry
+749,23,94.4,A+,Mathematics
+750,23,61.9,C,English Literature
+751,21,83.2,A,Computer Science
+752,22,71.0,B,English Literature
+753,24,54.2,D,Civil Engineering
+754,23,50.0,D,English Literature
+755,21,67.5,C,Mathematics
+756,22,84.6,A,Chemistry
+757,25,65.0,C,Mathematics
+758,20,44.1,F,Biology
+759,25,47.0,F,Biology
+760,18,69.1,C,Electrical Engineering
+761,18,84.7,A,Physics
+762,20,89.8,A,Civil Engineering
+763,19,81.0,A,Computer Science
+764,21,67.9,C,Mathematics
+765,18,75.2,B,English Literature
+766,25,77.9,B,Computer Science
+767,18,69.6,C,Physics
+768,18,36.1,F,Business Administration
+769,22,36.1,F,Physics
+770,20,42.0,F,Electrical Engineering
+771,20,50.7,D,English Literature
+772,22,88.0,A,Business Administration
+773,24,40.1,F,Physics
+774,25,71.7,B,Civil Engineering
+775,22,79.5,B,Electrical Engineering
+776,18,41.1,F,Physics
+777,24,70.9,B,Computer Science
+778,18,80.7,A,Electrical Engineering
+779,25,89.9,A,Mathematics
+780,19,93.2,A+,Computer Science
+781,21,48.7,F,English Literature
+782,25,52.6,D,Electrical Engineering
+783,22,93.5,A+,English Literature
+784,18,46.7,F,Mathematics
+785,18,97.5,A+,English Literature
+786,20,83.9,A,Physics
+787,19,54.5,D,English Literature
+788,21,71.8,B,Physics
+789,23,60.0,C,Mechanical Engineering
+790,19,67.6,C,Mathematics
+791,18,41.3,F,Civil Engineering
+792,19,57.1,D,English Literature
+793,24,98.0,A+,Mathematics
+794,18,76.2,B,Chemistry
+795,25,49.8,F,Biology
+796,24,63.1,C,English Literature
+797,24,40.6,F,English Literature
+798,22,86.9,A,Electrical Engineering
+799,19,52.4,D,Physics
+800,20,83.1,A,Mathematics
+801,23,41.9,F,Computer Science
+802,22,63.9,C,Business Administration
+803,19,43.6,F,Mechanical Engineering
+804,24,64.2,C,Biology
+805,24,41.7,F,Electrical Engineering
+806,23,71.0,B,English Literature
+807,23,91.1,A+,Computer Science
+808,22,61.9,C,Electrical Engineering
+809,21,72.2,B,Mechanical Engineering
+810,24,46.0,F,Business Administration
+811,22,52.4,D,Mechanical Engineering
+812,19,45.9,F,Business Administration
+813,24,54.5,D,Electrical Engineering
+814,23,51.4,D,Civil Engineering
+815,25,73.6,B,Civil Engineering
+816,25,42.0,F,Business Administration
+817,18,96.7,A+,Mathematics
+818,24,87.3,A,Mathematics
+819,25,56.8,D,English Literature
+820,20,54.5,D,English Literature
+821,21,66.1,C,Mechanical Engineering
+822,24,98.0,A+,Business Administration
+823,25,97.9,A+,Civil Engineering
+824,23,59.4,D,Physics
+825,23,42.4,F,English Literature
+826,21,73.5,B,Biology
+827,20,79.3,B,Biology
+828,18,96.9,A+,Chemistry
+829,21,63.5,C,Business Administration
+830,19,88.2,A,Physics
+831,25,44.0,F,Business Administration
+832,21,51.4,D,Mechanical Engineering
+833,24,86.3,A,Electrical Engineering
+834,25,99.4,A+,Chemistry
+835,24,69.7,C,Physics
+836,18,86.4,A,Mathematics
+837,19,42.1,F,Civil Engineering
+838,23,45.8,F,English Literature
+839,18,71.6,B,Physics
+840,23,97.8,A+,Physics
+841,19,35.7,F,Business Administration
+842,21,68.2,C,Biology
+843,21,64.0,C,Physics
+844,25,85.2,A,English Literature
+845,20,57.4,D,Computer Science
+846,25,41.8,F,Physics
+847,19,42.5,F,Mechanical Engineering
+848,23,55.3,D,Chemistry
+849,21,68.9,C,Mathematics
+850,25,41.3,F,Chemistry
+851,23,39.4,F,Computer Science
+852,19,36.5,F,Mathematics
+853,19,79.0,B,Mechanical Engineering
+854,21,68.5,C,Biology
+855,20,56.5,D,Physics
+856,25,50.1,D,Physics
+857,20,47.1,F,Physics
+858,24,36.9,F,English Literature
+859,21,64.2,C,Physics
+860,24,35.3,F,Civil Engineering
+861,21,53.1,D,Electrical Engineering
+862,19,87.0,A,Biology
+863,20,58.8,D,Civil Engineering
+864,25,42.4,F,Chemistry
+865,23,73.8,B,English Literature
+866,24,73.2,B,Mathematics
+867,23,90.0,A+,English Literature
+868,20,87.9,A,Business Administration
+869,19,78.7,B,Mathematics
+870,19,50.5,D,Electrical Engineering
+871,20,59.3,D,Mechanical Engineering
+872,24,62.2,C,Mechanical Engineering
+873,24,62.5,C,Chemistry
+874,20,71.1,B,Chemistry
+875,22,44.1,F,Mathematics
+876,25,75.3,B,Mathematics
+877,18,66.5,C,Civil Engineering
+878,24,97.6,A+,Biology
+879,25,61.6,C,Chemistry
+880,24,81.2,A,Chemistry
+881,25,45.9,F,English Literature
+882,18,86.7,A,Civil Engineering
+883,22,37.1,F,Civil Engineering
+884,22,45.9,F,Chemistry
+885,25,70.7,B,Electrical Engineering
+886,19,52.4,D,Biology
+887,23,70.2,B,Computer Science
+888,25,70.5,B,Physics
+889,19,82.8,A,Civil Engineering
+890,22,91.9,A+,Computer Science
+891,25,52.1,D,Electrical Engineering
+892,25,91.2,A+,Electrical Engineering
+893,21,48.6,F,English Literature
+894,23,91.0,A+,English Literature
+895,24,45.8,F,Mechanical Engineering
+896,21,87.9,A,Computer Science
+897,23,69.6,C,English Literature
+898,20,56.0,D,Business Administration
+899,22,72.2,B,Biology
+900,19,43.8,F,Physics
+901,18,99.5,A+,Mechanical Engineering
+902,20,51.2,D,Mathematics
+903,21,84.5,A,Physics
+904,25,44.2,F,Business Administration
+905,24,59.4,D,Electrical Engineering
+906,19,61.2,C,Business Administration
+907,23,64.6,C,Chemistry
+908,23,72.8,B,Electrical Engineering
+909,25,76.3,B,Mathematics
+910,19,86.7,A,Physics
+911,21,97.9,A+,Civil Engineering
+912,25,52.5,D,Business Administration
+913,23,70.6,B,Mechanical Engineering
+914,25,86.2,A,Computer Science
+915,18,41.5,F,Chemistry
+916,18,43.1,F,Mechanical Engineering
+917,25,64.7,C,Physics
+918,21,99.7,A+,Mechanical Engineering
+919,22,45.3,F,Business Administration
+920,19,77.5,B,Business Administration
+921,19,59.2,D,Mechanical Engineering
+922,18,60.8,C,Business Administration
+923,21,62.9,C,Electrical Engineering
+924,19,35.1,F,Chemistry
+925,19,43.6,F,Civil Engineering
+926,25,35.6,F,Mathematics
+927,19,99.2,A+,Physics
+928,20,66.1,C,Civil Engineering
+929,24,40.8,F,Electrical Engineering
+930,19,55.4,D,Business Administration
+931,20,59.9,D,Mechanical Engineering
+932,20,39.4,F,English Literature
+933,18,74.7,B,Mechanical Engineering
+934,25,57.8,D,Civil Engineering
+935,20,94.8,A+,English Literature
+936,25,90.9,A+,Electrical Engineering
+937,19,44.1,F,Electrical Engineering
+938,24,57.8,D,Physics
+939,23,86.4,A,Civil Engineering
+940,22,76.9,B,Civil Engineering
+941,22,85.6,A,Computer Science
+942,22,48.4,F,English Literature
+943,21,83.6,A,Business Administration
+944,18,85.9,A,Civil Engineering
+945,25,60.1,C,Civil Engineering
+946,25,76.5,B,Electrical Engineering
+947,18,99.1,A+,Mathematics
+948,20,60.1,C,English Literature
+949,24,58.8,D,Mechanical Engineering
+950,25,97.0,A+,Electrical Engineering
+951,18,73.2,B,Computer Science
+952,22,49.0,F,Computer Science
+953,24,67.9,C,Biology
+954,24,62.5,C,Physics
+955,19,76.6,B,Biology
+956,20,53.0,D,Business Administration
+957,19,68.2,C,Civil Engineering
+958,20,69.9,C,Physics
+959,19,55.2,D,Physics
+960,21,38.8,F,Electrical Engineering
+961,24,42.5,F,English Literature
+962,18,55.1,D,Mechanical Engineering
+963,19,35.8,F,Mechanical Engineering
+964,18,45.6,F,Mathematics
+965,22,45.9,F,Mechanical Engineering
+966,22,82.6,A,Electrical Engineering
+967,18,56.8,D,Physics
+968,22,69.1,C,Business Administration
+969,19,67.2,C,Biology
+970,23,38.6,F,English Literature
+971,20,58.9,D,Business Administration
+972,19,93.1,A+,Electrical Engineering
+973,21,83.2,A,Computer Science
+974,18,90.8,A+,Computer Science
+975,21,38.0,F,Mathematics
+976,24,94.8,A+,Mechanical Engineering
+977,18,70.9,B,Physics
+978,21,55.9,D,Physics
+979,23,52.6,D,Electrical Engineering
+980,23,42.8,F,Computer Science
+981,20,49.5,F,Biology
+982,18,97.0,A+,Electrical Engineering
+983,25,91.3,A+,Business Administration
+984,23,40.6,F,Chemistry
+985,18,59.0,D,Business Administration
+986,22,83.1,A,Civil Engineering
+987,25,58.9,D,Chemistry
+988,21,82.6,A,Biology
+989,21,44.8,F,Physics
+990,18,50.1,D,Mathematics
+991,18,96.8,A+,Computer Science
+992,24,90.2,A+,Business Administration
+993,19,48.3,F,Civil Engineering
+994,24,67.0,C,Computer Science
+995,20,81.3,A,Electrical Engineering
+996,18,94.9,A+,Biology
+997,24,80.6,A,Mathematics
+998,25,98.3,A+,Electrical Engineering
+999,19,67.9,C,Physics
+1000,19,73.5,B,Computer Science
